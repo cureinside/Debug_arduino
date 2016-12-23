@@ -18,6 +18,6 @@ void loop() {
     */
 
    deb.prints ("this is loop - %d",i); //prints
-   deb.LED(); //blink LED attached at process2
+   deb.LED(); //blink LED attached at pin 13
    delay(1000);
 }
