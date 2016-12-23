@@ -1,11 +1,9 @@
 #include <Debug.h>
 
-
 Debug deb(13); //attach LED for debugging at pin 13
 
-void setup() {
-
-}
+void setup() 
+{}
 
 int i=0;
 void loop() {
